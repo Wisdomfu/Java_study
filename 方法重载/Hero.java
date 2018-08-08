@@ -5,5 +5,5 @@ public class Hero {
 	int hp;//血量
 	int attack;//攻击
 	int armor;//护甲
-	int moveSpeed;
+	int moveSpeed;//移动速度
 }
