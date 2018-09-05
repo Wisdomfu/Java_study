@@ -11,7 +11,7 @@ public class Character常用方法 {
         System.out.println(Character.toUpperCase('a')); //转换为大写
         System.out.println(Character.toLowerCase('A')); //转换为小写
  
-        String a = 'a'; //不能够直接把一个字符转换成字符串
+        //String a = 'a'; //不能够直接把一个字符转换成字符串
         String a2 = Character.toString('a'); //转换为字符串
 	}
 
