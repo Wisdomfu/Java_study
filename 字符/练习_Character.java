@@ -13,4 +13,5 @@ public class 练习_Character {//通过Scanner从控制台读取字符串，然后把字符串转换为
 			if(Character.isDigit(A[i])) System.out.print(A[i]);
 		}
 	}
+	
 }
